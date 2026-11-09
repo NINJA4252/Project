@@ -141,6 +141,3 @@ main_wind.total = 0
 
 main_wind.show()
 app.exec_()
-
-
-#создай приложение для запоминания информации
